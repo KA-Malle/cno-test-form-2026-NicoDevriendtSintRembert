@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nico.devriendt\\OneDrive - Scholengroep Sint-Rembert vzw\\Documenten\\Opleiding Github\\git_repos\\Toets\\cno-test-form-2026-NicoDevriendtSintRembert\\Test-form-CNO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9022F3C4-628F-49BE-8F63-28A3049826BD}|Test-form-CNO\\Test-form-CNO.csproj|c:\\users\\nico.devriendt\\onedrive - scholengroep sint-rembert vzw\\documenten\\opleiding github\\git_repos\\toets\\cno-test-form-2026-nicodevriendtsintrembert\\test-form-cno\\test-form-cno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9022F3C4-628F-49BE-8F63-28A3049826BD}|Test-form-CNO\\Test-form-CNO.csproj|solutionrelative:test-form-cno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nico.devriendt\\OneDrive - Scholengroep Sint-Rembert vzw\\Documenten\\Opleiding Github\\git_repos\\Toets\\cno-test-form-2026-NicoDevriendtSintRembert\\Test-form-CNO\\Test-form-CNO\\Program.cs",
+              "RelativeDocumentMoniker": "Test-form-CNO\\Program.cs",
+              "ToolTip": "C:\\Users\\nico.devriendt\\OneDrive - Scholengroep Sint-Rembert vzw\\Documenten\\Opleiding Github\\git_repos\\Toets\\cno-test-form-2026-NicoDevriendtSintRembert\\Test-form-CNO\\Test-form-CNO\\Program.cs*",
+              "RelativeToolTip": "Test-form-CNO\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T14:01:26.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

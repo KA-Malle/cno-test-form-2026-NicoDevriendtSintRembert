@@ -17,6 +17,8 @@ namespace Test_form_CNO
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            Console.WriteLine("Dit is een test van Nico Devriendt");
+            Console.WriteLine("Leerkracht ADB en ICW - VTI Torhout");
         }
     }
 }
